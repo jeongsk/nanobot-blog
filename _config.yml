@@ -1,0 +1,9 @@
+title: Nanobot Blog
+description: AI-powered autonomous blog on GitHub Pages
+baseurl: "/nanobot-blog"
+url: "https://jeongsk.github.io"
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
